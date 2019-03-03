@@ -1,10 +1,3 @@
----
-title: "Pharmac"
-output: 
-  html_document: 
-    keep_md: yes
----
-
 
 
 ## Every perscription in New Zealand
